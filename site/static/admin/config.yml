@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  
+  repo: betterify/betterify-one-click-hugo-cms
   branch: master
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
