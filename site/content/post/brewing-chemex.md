@@ -24,3 +24,7 @@ The most visually distinctive feature of the Chemex is the heatproof wooden coll
 For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance. ***Let us enjoy the brewing!!!***
 
 {{< youtube NSts93C9UeE >}}
+
+{{< gdocs "https://docs.google.com/presentation/d/1DrJLiy1Anz5QVmtEzVSutUwgi11ed6GU3Sj0xwLKS1Q/present?token=AC4w5Vi4YPTT9iagAnw9BGmGWbIeXDUpcg%3A1526741667308&includes_info_params=1#slide=id.g3a8ce69d2b_1_78" >}}
+
+{{< gdocs "https://docs.google.com/presentation/d/e/2PACX-1vS1rcxDDq4BMbLEzSXIjyhh7XGlf0x5CFVV38oSe1qO8AKsG6Q1zOerZsnVKLz1lZXEu0-fDbzgux7H/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" >}}
