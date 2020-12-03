@@ -25,4 +25,4 @@ For a design piece that became popular post-war at a time of Modernism and preci
 
 {{< youtube NSts93C9UeE >}}
 
-{{< gdocs "https://docs.google.com/presentation/d/e/2PACX-1vS1rcxDDq4BMbLEzSXIjyhh7XGlf0x5CFVV38oSe1qO8AKsG6Q1zOerZsnVKLz1lZXEu0-fDbzgux7H/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" >}}
+{{< "https://docs.google.com/presentation/d/e/2PACX-1vS1rcxDDq4BMbLEzSXIjyhh7XGlf0x5CFVV38oSe1qO8AKsG6Q1zOerZsnVKLz1lZXEu0-fDbzgux7H/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" >}}
