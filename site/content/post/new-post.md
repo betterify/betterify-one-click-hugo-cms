@@ -1,6 +1,7 @@
 ---
-title: New Post
+title: New Post in Netlify CMS!!
 date: 2020-11-25T19:27:47.967Z
-description: xxx
+description: This is a new post
+image: img/about-single-origin.jpg
 ---
-xxxx
+**This is a demo post!!**
